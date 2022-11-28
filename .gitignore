@@ -1,2 +1,2 @@
 node_modules
-expense-tracker\config\config.env
+"./config/config.env"
